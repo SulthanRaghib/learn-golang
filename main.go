@@ -8,4 +8,7 @@ func main() {
 
 	fmt.Println("=== Latihan Variabel ===")
 	printVariables()
+
+	fmt.Println("=== Latihan Konversi ===")
+	convertTypes()
 }
