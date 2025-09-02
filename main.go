@@ -20,4 +20,7 @@ func main() {
 
 	fmt.Println("=== Latihan For ===")
 	latihanFor()
+
+	fmt.Println("=== Latihan If ===")
+	latihanIf()
 }
