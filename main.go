@@ -26,4 +26,7 @@ func main() {
 
 	fmt.Println("=== Latihan Switch ===")
 	latihanSwitch()
+
+	fmt.Println("=== Latihan Break ===")
+	latihanBreak()
 }
