@@ -11,4 +11,7 @@ func main() {
 
 	fmt.Println("=== Latihan Konversi ===")
 	convertTypes()
+
+	fmt.Println("=== Latihan Increment Decrement ===")
+	incrementDecrement()
 }
