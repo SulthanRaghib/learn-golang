@@ -14,4 +14,7 @@ func main() {
 
 	fmt.Println("=== Latihan Increment Decrement ===")
 	incrementDecrement()
+
+	fmt.Println("=== Latihan Operator Perbandingan ===")
+	operatorPerbandingan()
 }
