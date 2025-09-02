@@ -29,4 +29,7 @@ func main() {
 
 	fmt.Println("=== Latihan Break ===")
 	latihanBreak()
+
+	fmt.Println("=== Latihan Array ===")
+	latihanArray()
 }
