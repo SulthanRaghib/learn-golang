@@ -23,4 +23,7 @@ func main() {
 
 	fmt.Println("=== Latihan If ===")
 	latihanIf()
+
+	fmt.Println("=== Latihan Switch ===")
+	latihanSwitch()
 }
