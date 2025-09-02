@@ -17,4 +17,7 @@ func main() {
 
 	fmt.Println("=== Latihan Operator Perbandingan ===")
 	operatorPerbandingan()
+
+	fmt.Println("=== Latihan For ===")
+	latihanFor()
 }
