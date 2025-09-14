@@ -32,4 +32,7 @@ func main() {
 
 	fmt.Println("=== Latihan Array ===")
 	latihanArray()
+
+	fmt.Println("=== Latihan Slice ===")
+	latihanSlice()
 }
