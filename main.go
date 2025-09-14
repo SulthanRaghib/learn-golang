@@ -41,4 +41,7 @@ func main() {
 
 	fmt.Println("=== Latihan Map ===")
 	latihanMap()
+
+	fmt.Println("=== Latihan Map in Map ===")
+	latihanMapInMap()
 }
