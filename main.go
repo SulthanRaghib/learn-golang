@@ -38,4 +38,7 @@ func main() {
 
 	fmt.Println("=== Latihan Slice Manipulation ===")
 	latihanSliceManupulation()
+
+	fmt.Println("=== Latihan Map ===")
+	latihanMap()
 }
